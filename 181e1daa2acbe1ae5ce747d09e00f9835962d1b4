@@ -1,0 +1,1 @@
+{"jobID":"c0534465-f3a5-0f5b-eadd-dea5d77c5d45","spec":{"type":"policy","cause":{"Message":"","User":"Rich Hughes \u003crich@think-engineer.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
