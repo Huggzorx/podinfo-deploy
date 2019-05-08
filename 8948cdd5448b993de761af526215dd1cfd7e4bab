@@ -1,0 +1,1 @@
+{"jobID":"cc42795d-4aa3-fe75-f2ea-9192f4a4d73b","spec":{"type":"policy","cause":{"Message":"","User":"Rich Hughes \u003crich@think-engineer.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"tag.podinfod":"glob:master-*"},"remove":null}}},"result":null}
